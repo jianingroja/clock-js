@@ -1,0 +1,12 @@
+p {
+  text-align: center;
+  color: steelblue;
+  display: block;
+  font-style: normal;
+}
+
+#clock {
+  margin: 20px;
+  font-size: 100px;
+  font-weight: bold;
+}
